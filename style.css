@@ -1,0 +1,139 @@
+
+    @font-face {
+        font-family: 'Slabo27px';
+        src: url('Slabo27px-Regular.ttf');
+    }
+
+    *{
+        font-family: 'Slabo27px';
+    }
+body {
+  margin: 0;
+}
+#top-img {
+  width: 300x;
+  height: 100px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#top-heading{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #7164ba;
+    text-decoration: underline;
+    
+}
+#main-content{
+  
+    border: 1px solid #6b5acd;
+    width:65%;
+    height: 800px;
+    background-color: #6b5acd;
+    margin-left: auto;
+    margin-right: auto;
+}
+#input1{
+    color: whitesmoke;
+}
+#user-input{
+    margin-left: 60px;
+}
+#last-name{
+    margin-left: 64px;
+}
+#input2,#last-name1,#input3,#input4,#input5,#input6,#input7,#input8,#input9,#input10,#input11,#qualF,#last-content{
+    color: whitesmoke;
+}
+#dobN{
+    margin-left: 38px;
+}
+#emailT{
+    margin-left: 80px;
+}
+#mobN{
+    margin-left: 38px;
+}
+#radB{
+    margin-left: 88px;
+}
+input[type=radio]{
+    border: 0px;
+    width: 30px;
+    height: 15px;
+}
+#textA{
+    margin-left: 80px;
+}
+.input6 *{
+    vertical-align: top;
+}
+#cityN{
+    margin-left: 115px;
+}
+#postalC{
+    margin-left: 51px;
+}
+#stateN{
+    margin-left: 60px;
+}
+#checkB{
+    margin-left: 83px;
+}
+input[type=checkbox]{
+    border: 0px;
+    width: 30px;
+    height: 15px;
+}
+#input11{
+    margin-left: 150px;
+}
+table tr{
+    color: whitesmoke;
+}
+table{
+    margin-left: 150px;
+    
+}
+#qualF{
+    position: absolute;
+   
+}
+#qualF-last-row-items td{
+    margin-left: 15px;
+}
+#radio-content{
+    margin-left:55px;
+    color: whitesmoke;
+}
+#last-section-item{
+    color: whitesmoke;
+}
+#main-content form{
+margin-left: 15px;
+margin-top: 15px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#buttonS{
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+#form-submit{
+    text-align: center;
+    margin-top: 100px;
+}
+#form-submit .first{
+    color: rgb(0,147, 12);
+    font-size: 25px;
+    font-weight: bold;
+}
+#form-submit .second ,.third{
+    color: rgb(111, 19,166);
+    font-size: 25px;
+    font-weight: bold;
+}
+
